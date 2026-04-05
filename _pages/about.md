@@ -2,13 +2,12 @@
 
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Arjun Gupta"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 Data Scientist and Researcher with experience executing the entire research process: from problem formulation to results communication. Strong quantitative background with expertise in causal inference, machine learning, predictive modeling, and data-driven decision-making. Experienced in extracting actionable business insights using Python, R, and SQL, and applying advanced analytics to drive results.
 
@@ -30,6 +29,11 @@ Work Experience
   * Wrote a research paper using applied econometrics methods (e.g., logistic regression) on a large E-commerce website data set (1TB).
   * Nominated for the Best Paper award at Winter School at Delhi School of Economics, 2023.
   * Taught seminars on modern econometric theory and supervised bachelor's theses.
+
+* **Tilburg University** (The Netherlands)
+  * *Research and Teaching Assistant* (September 2020 – September 2022)
+  * Received a 4.5/5 rating as a Teaching Assistant for second-year undergraduate courses in Economics.
+  * Created assignments for a master-level course on "Panel Data Econometrics".
 
 * **National Institute of Public Finance and Policy** (New Delhi, India)
   * *Research Programmer* (August 2015 – August 2017)
