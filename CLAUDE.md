@@ -57,7 +57,7 @@ tags: [tag1, tag2]
 ```
 
 ### Adding a publication
-Create `_publications/YYYY-MM-DD-paper-slug.md`. The CV page auto-populates publications via `{% for post in site.publications reversed %}`.
+Create `_publications/YYYY-MM-DD-paper-slug.md`. The CV page auto-populates publications via `{% raw %}{% for post in site.publications reversed %}{% endraw %}`.
 
 ### CV page (`_pages/cv.md`)
 Manually maintained markdown with Liquid loops at the bottom that auto-append Publications, Talks, and Teaching entries from their respective collections. The `files/` directory holds the actual CV PDF.
